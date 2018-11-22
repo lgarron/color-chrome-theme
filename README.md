@@ -1,4 +1,4 @@
-# Colors Chrome Theme
+# Color Chrome Theme
 
 A Chrome theme with a familiar color scheme.
 
